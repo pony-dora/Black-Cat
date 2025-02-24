@@ -1,5 +1,6 @@
 body {
     font-family: "Irish Grover";
+    margin: 0px 
 }
 
 header {
@@ -7,9 +8,19 @@ header {
 }
 
 main {
-    background-color: #7995CA
+    background-color: #7995CA;
+    
 }
 
 footer {
     background-color: #35394B
+}
+
+.cat {
+    width: 180px
+}
+
+.cat:hover {
+    position: relative;
+    left: 600px
 }
